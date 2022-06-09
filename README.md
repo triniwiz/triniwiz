@@ -1,6 +1,3 @@
-![IMG_9013](https://user-images.githubusercontent.com/6695919/172887797-6c06f8ef-fa15-4b9e-a6a5-def74aa3ad7a.jpg)
-
-
 ### Hi there 👋 Osei here there and well everywhere . 👀 ... Working from sweet sweet tnt 🇹🇹
 
 - 🔭 I’m currently working on adding desktop support to [@NativeScript](https://github.com/NativeScript)
