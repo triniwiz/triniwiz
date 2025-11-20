@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with maybe maintaining some of repos 🤷‍♂️
 - 💬 Ask me about [@NativeScript](https://github.com/NativeScript)
 - 📫 How to reach me: on the bird app [@triniwiz](https://twitter.com/triniwiz) ... tweet tweet 🐦 
-- ⚡ Fun fact: yuh a live until yuh ate doubles or ah lil roti from 🇹🇹 an doh forget the red solo 😂
+- ⚡ Fun fact: It costs absolutely zero dollars to mind yuh business 
 
 
 
