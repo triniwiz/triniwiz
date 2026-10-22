@@ -1,29 +1,26 @@
-### Hi there 👋 Osei here there and well everywhere . 👀 ... Working from sweet sweet tnt 🇹🇹
+# Hi, I'm Osei Fortune (@triniwiz)
 
-- 🔭 I’m currently working on adding desktop support to [@NativeScript](https://github.com/NativeScript)
-- 🌱 I’m currently learning to code idk what I'm doing or do I 🤔
-- 👯 I’m looking to collaborate on anything [@NativeScript](https://github.com/NativeScript) ... Yes ah love it
-- 🤔 I’m looking for help with maybe maintaining some of repos 🤷‍♂️
-- 💬 Ask me about [@NativeScript](https://github.com/NativeScript)
-- 📫 How to reach me: on the bird app [@triniwiz](https://twitter.com/triniwiz) ... tweet tweet 🐦 
-- ⚡ Fun fact: It costs absolutely zero dollars to mind yuh business 
+I'm a software engineer and open-source contributor working on **NativeScript, native UI, cross-platform runtimes, and graphics rendering**.
 
+I'm interested in making it easier to build native applications with web technologies, without giving up the capabilities and performance of the underlying platforms.
 
+## What I'm working on
 
-![Metrics](https://metrics.lecoq.io/triniwiz?template=classic&languages=1&lines=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FPort_of_Spain)
+- **[NativeScript](https://github.com/NativeScript/NativeScript)** — Building native applications with JavaScript and TypeScript.
+- **[Mason](https://github.com/triniwiz/nativescript-mason)** — Bringing flexible, web-style layout capabilities to native applications.
+- **[NativeScript Canvas](https://github.com/NativeScript/canvas)** — Native-backed Canvas, WebGL, WebGL2, and WebGPU APIs.
+- **[NativeScript Windows](https://github.com/NativeScript/windows)** — Exploring Windows desktop support with native platform APIs.
 
+My work spans TypeScript, JavaScript runtimes, Rust, Java, Kotlin, Swift, Objective-C, and native platform APIs, with a focus on cross-platform infrastructure, UI systems, and graphics rendering across iOS, Android, and Windows.
 
-<!--
-**triniwiz/triniwiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Support my open-source work
 
-Here are some ideas to get you started:
+Maintaining open-source projects takes time, from fixing bugs and reviewing contributions to performance work and exploring new platform capabilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you use my projects or find my work useful, consider [sponsoring me on GitHub](https://github.com/sponsors/triniwiz). Your support helps me dedicate more time to building and maintaining open-source software.
+
+## Connect
+
+- [GitHub](https://github.com/triniwiz)
+- [Sponsor my work](https://github.com/sponsors/triniwiz)
+
